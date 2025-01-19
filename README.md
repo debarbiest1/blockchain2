@@ -1,8 +1,8 @@
-# Decentralized AI Model Hub
+# AI Model Hub
 **Created by Kumissay Zhalmagambetova SE-2315**
 
 ## Introduction
-The **Decentralized AI Model Hub** is a blockchain-powered decentralized application (dApp) designed for Assignment 2 of the Blockchain Technologies course. It facilitates the listing, purchase, and review of AI models in a secure, transparent environment.
+The **AI Model Hub** is a blockchain-powered decentralized application (dApp) designed for Assignment 2 of the Blockchain Technologies course. It facilitates the listing, purchase, and review of AI models in a secure, transparent environment.
 
 ### Key Features
 - **Model Listing**: Users can list AI models with details such as title, description, and price.
@@ -34,15 +34,6 @@ The dApp frontend, built with JavaScript and **Web3.js**, offers:
 - A rating submission interface for purchased models.
 - A withdrawal functionality for model earnings.
 - A detailed view of each model's attributes.
-
-## How to Use the Application
-
-### Requirements
-- **Node.js**
-- **Ganache**
-- **MetaMask**
-- **Remix IDE**
-- **Visual Studio Code**
 
 ### Installation Guide
 
@@ -76,14 +67,17 @@ The dApp frontend, built with JavaScript and **Web3.js**, offers:
 
 ## Project Layout
 ```plaintext
-DecentralizedAIHub/
+Assignment2/
 ├── contracts/
-│   └── AIHubContract.sol
+│   └── AIModelHub.sol
 ├── frontend/
-│   ├── main.js
+│   ├── app.js
 │   └── index.html
+│   └── style.css
 ├── README.md
 └── LICENSE
+└── package-lock.json
+└── package.json
 ```
 
 ## Example Workflow
