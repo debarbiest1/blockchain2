@@ -91,7 +91,7 @@ Assignment2/
    - Model creators can withdraw accumulated earnings from sales.
 
 ## Screenshots
-Explore the screenshots in the repository folder to understand the UI and features better. **Viewable in file order 1-14**.
+Explore the screenshots in the repository folder to understand the UI and features better. **Viewable in file order 1-10**.
 
 ## Licensing
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
